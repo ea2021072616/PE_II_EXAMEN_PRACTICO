@@ -17,7 +17,7 @@ https://github.com/ea2021072616/PE_II_EXAMEN_PRACTICO.git
 
 ### Mejora visual del textarea
 - El campo de texto para la misión (`textarea`) ahora es más grande y cómodo, con mayor altura, padding y fuente más legible.
-- 
+  
 ![Misión - Botón IA](imagenes/1.png)
 
 
@@ -25,14 +25,14 @@ https://github.com/ea2021072616/PE_II_EXAMEN_PRACTICO.git
 - El modal para la IA se mantiene, permitiendo al usuario ingresar datos clave (nombre, sector, público, valores, productos).
 - El prompt enviado a la IA fue mejorado para que la misión generada sea profesional, inspiradora y adaptada al sector este promt fue estructurado y planeado para este objetivo.
 - El inicio de la misión se define dinámicamente según el sector (ejemplo: “La misión de [nombre] es…”).
-- 
+  
 ![Misión - Textarea Mejorado](imagenes/2.png)
 
 
 ### Código y estilos
 - Se eliminaron los estilos y el HTML del botón flotante que ya no se usa.
 - El botón de IA junto al textarea mantiene un diseño consistente con el resto de la interfaz.
-- 
+  
 ![Misión - Modal IA](imagenes/3.png)
 ---
 
